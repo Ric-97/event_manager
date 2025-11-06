@@ -651,6 +651,6 @@ elif menu_option == "📊 Insights":
 # Footer
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: gray;'>🔍 Esplora Eventi - Sistema Semplificato</div>",
+    "<div style='text-align: center; color: gray;'>🔍 Esplora Eventi </div>",
     unsafe_allow_html=True
 )
